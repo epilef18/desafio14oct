@@ -9,6 +9,7 @@ Este proyecto es parte de un desafío de Django que consiste en crear una aplica
   
 ## Estructura del Proyecto
 
+```
 desafioevaluado14oct/
 ├── manage.py                    # Script de gestion del proyecto
 ├── desafioevaluado14oct/        # Carpeta del proyecto principal
@@ -17,7 +18,7 @@ desafioevaluado14oct/
 │   ├── settings.py              # Script para configurar la app
 └── templates/
     ├── empleados.html           # Plantilla html que muestra lista de empleados
-    
+ ```   
 # Documentación del proyecto
 
 ## Uso
